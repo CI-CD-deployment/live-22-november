@@ -1,0 +1,8 @@
+{
+    "todos": [
+        { "id": 0, "task": "Köp kaffe",   "done": true },
+        { "id": 1, "task": "Köp kaka",    "done": false },
+        { "id": 2, "task": "Brygg kaffe", "done": false },
+        { "id": 3, "task": "Drick kaffe", "done": false }
+    ]
+}

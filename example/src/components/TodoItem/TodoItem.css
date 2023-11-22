@@ -1,0 +1,12 @@
+.todo-item {
+    border: 1px solid #0b7ed2;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: #0b7ed2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.done {
+    opacity: 0.5;
+    text-decoration: line-through;
+}
